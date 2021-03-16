@@ -1,0 +1,16 @@
+h1 {
+  color: crimson;
+  text-align: left;
+  font-size: 80px;
+}
+
+h2 {
+  color: plum;
+  font-style: italic;
+  font-weight: bold;
+}
+
+ul {
+  line-height: 20;
+  font-family: sans-serif;
+}
